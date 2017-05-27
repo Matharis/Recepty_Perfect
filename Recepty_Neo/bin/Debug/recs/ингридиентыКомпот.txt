@@ -1,0 +1,8 @@
+Cherries
+3
+Water
+4
+Apples
+2
+Bananas
+1

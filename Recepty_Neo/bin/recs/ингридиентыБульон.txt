@@ -1,0 +1,8 @@
+Meat
+2
+Water
+3
+Vegetables
+2
+Fruits
+0

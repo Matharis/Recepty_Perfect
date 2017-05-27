@@ -1,0 +1,18 @@
+компот
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\компот.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\компот.txt
+Стейк
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\Стейк.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\ингридиентыСтейк.txt
+Салат
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\Салат.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\ингридиентыСалат.txt
+Бульон
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\Бульон.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\ингридиентыБульон.txt
+Салат с курицей
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\Салат с курицей.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\ингридиентыСалат с курицей.txt
+Пюрешка с котлетками
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\Пюрешка с котлетками.rtf
+G:\Kursach\Recepty_Neo3\Recepty_Neo\bin\Debug\recs\ингридиентыПюрешка с котлетками.txt
